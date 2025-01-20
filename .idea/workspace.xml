@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b26f1092-c4ff-44a1-9205-936573986e77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advance Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fruit_Inn/ChangeName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fruit_Inn/Connections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fruit_Inn/InsertDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fruit_Inn/OtherFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fruit_Inn/ReadCSV_File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fruit_Inn/ReadFromDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fruit_Inn/UpdateData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fruit_Inn/fruitDtails.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b26f1092-c4ff-44a1-9205-936573986e77" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hemel1212"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hemel1212/Advance-Java.git",
+    "accountId": "91b9287f-fdb4-48e1-bc63-e8c7aac88ee0"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -50,9 +46,10 @@
     "Application.OtherFile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Hemel/Advance Java/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Hemel/Advance Java/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
