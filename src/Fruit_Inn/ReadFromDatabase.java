@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public class ReadFromDatabase extends Connections {
     StringBuilder output = new StringBuilder();
     public ArrayList<String> readFromDatabase() {
-        String selectQuery = "SELECT * FROM jdbc_fruit_product";
+        String selectQuery = "SELECT * FROM Fruit";
         ArrayList<String> productsData = new ArrayList<>();
 
         try {

@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class InsertDatabase extends Connections {
     public void insertDatabase(String[][] products) {
-        String insertQuery = "INSERT INTO jdbc_fruit_product (id, name, buyer, seller, price, buy_date, sell_date) VALUES (?, ?, ?, ?, ?, ?, ?)";
+        String insertQuery = "INSERT INTO Fruit (id, name, buyer, seller, price, buy_date, sell_date) VALUES (?, ?, ?, ?, ?, ?, ?)";
 
         try {
             Connection connection = DriverManager.getConnection(URL, USER, PASSWORD);

@@ -1,0 +1,32 @@
+ID: 1
+Name: Apple
+Buyer: Omar
+Seller: Iqram
+Price: 100
+Buying Date: 2020-01-01 00:00:00
+Selling Date: 2020-02-01 00:00:00
+
+ID: 2
+Name: Orange
+Buyer: Himu
+Seller: Rasel
+Price: 200
+Buying Date: 2020-03-01 00:00:00
+Selling Date: 2020-03-02 00:00:00
+
+ID: 3
+Name: Banana
+Buyer: Faysal
+Seller: Zakaria
+Price: 300
+Buying Date: 2020-03-02 00:00:00
+Selling Date: 2020-03-03 00:00:00
+
+ID: 4
+Name: Mango
+Buyer: Jahid
+Seller: Nahid
+Price: 250
+Buying Date: 2020-03-05 00:00:00
+Selling Date: 2020-03-06 00:00:00
+

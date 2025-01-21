@@ -15,17 +15,17 @@ public class OtherFile {
         System.out.println();
 
         //read csv file:
-        System.out.println("Reading data from CSV file...");
+        System.out.println("Reading data ...");
         System.out.println(Arrays.deepToString(readCsvFile.readCsvFile()));
         System.out.println();
 
         //insert data into database:
-        System.out.println("Inserting data into database...");
+        System.out.println("Inserting data...");
         insert.insertDatabase(readCsvFile.readCsvFile());
         System.out.println();
 
         //read data from database:
-        System.out.println("Reading data from database...");
+        System.out.println("Reading data...");
         readData.readFromDatabase();
         readData.readDataFromDatabasePrint();
         System.out.println();
@@ -37,7 +37,7 @@ public class OtherFile {
         System.out.println();
 
         //write new file with updated data:
-        System.out.println("Writing a new file with updated data...");
+        System.out.println("Writing a new file...");
         updatedData.writingNewFileWithUpdatedData();
         System.out.println();
 

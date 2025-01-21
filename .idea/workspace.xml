@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b26f1092-c4ff-44a1-9205-936573986e77" name="Changes" comment="" />
+    <list default="true" id="b26f1092-c4ff-44a1-9205-936573986e77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc11_23_6_0_24_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ojdbc11-23.6.0.24.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fruit_Inn/modified_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advance Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Advance Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/ChangeName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/ChangeName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/Connections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/Connections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/InsertDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/InsertDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/OtherFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/OtherFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/ReadCSV_File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/ReadCSV_File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/ReadFromDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/ReadFromDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/UpdateData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/UpdateData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/fruitDtails.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/fruitDtails.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +35,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hemel1212"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hemel1212&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hemel1212/Advance-Java.git",
-    "accountId": "91b9287f-fdb4-48e1-bc63-e8c7aac88ee0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hemel1212/Advance-Java.git&quot;,
+    &quot;accountId&quot;: &quot;adf57b51-cbb0-41ee-a729-bcf6e29290fd&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2ru4wz1hyUUOproLHW3Qv4ImvQJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,12 +61,22 @@
     "Application.OtherFile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/GIT/Advance-Java/lib/ojdbc11-23.6.0.24.10.jar",
     "onboarding.tips.debug.path": "C:/Users/Hemel/Advance Java/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GIT\Advance-Java\lib" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="OtherFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fruit_Inn.OtherFile" />
@@ -83,6 +108,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -90,6 +126,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Fruit_Inn/OtherFile.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

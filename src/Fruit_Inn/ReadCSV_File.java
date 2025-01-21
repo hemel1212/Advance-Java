@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class ReadCSV_File {
     public String[][] readCsvFile() throws FileNotFoundException {
-        String databaseFile = "C:\\Users\\Hemel\\Advance Java\\src\\Fruit_Inn\\fruitDtails.csv";
+        String databaseFile = "src/Fruit_Inn/fruitDtails.csv";
         Scanner read = new Scanner(new File(databaseFile));
 
         int rowCount = 0;

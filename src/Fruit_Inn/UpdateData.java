@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 
 public class UpdateData extends ChangeName {
     public void writingNewFileWithUpdatedData() throws FileNotFoundException {
-        String modifiedFile = "src\\JDBC\\FIleJdbcFullOperation\\products-data-modified.txt";
+        String modifiedFile = "src/Fruit_Inn/modified_data.txt";
         StringBuilder updateContent = new StringBuilder();
 
         for (String newProduct : super.changeName()) {

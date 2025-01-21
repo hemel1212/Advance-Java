@@ -20,7 +20,7 @@ public class ChangeName extends ReadFromDatabase{
         }
 
         output.append(String.format("%-3s %-10s %-10s %-10s %-6s %-15s %-15s\n", "id", "name", "buyer", "seller", "price", "buy_date", "sell_date"));
-        output.append(String.format("-----------------------------------------------------------------------\n"));
+        output.append(String.format("-------------------------------------\n"));
         for (String items : newData) {
             String[] item = items.split(",");
             output.append(String.format("%-3s %-10s %-10s %-10s %-6s %-15s %-15s\n", item[0], item[1], item[2], item[3], item[4], item[5], item[6]));
