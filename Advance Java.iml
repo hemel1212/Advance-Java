@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="ojdbc11-23.6.0.24.10" level="project" />
+    <orderEntry type="library" name="kotlin-stdlib-2.1.20-Beta1" level="project" />
   </component>
 </module>

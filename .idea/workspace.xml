@@ -4,21 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b26f1092-c4ff-44a1-9205-936573986e77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc11_23_6_0_24_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ojdbc11-23.6.0.24.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fruit_Inn/modified_data.txt" afterDir="false" />
+    <list default="true" id="b26f1092-c4ff-44a1-9205-936573986e77" name="Changes" comment="fruit">
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-2.1.20-Beta1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okhttp-5.0.0-alpha.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/okio-jvm-3.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/Crudo_Peration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Connections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/InsertDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/LibraryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/ReadFromDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Product/DatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Product/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/DatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Internet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Advance Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Advance Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/ChangeName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/ChangeName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/Connections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/Connections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/InsertDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/InsertDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/OtherFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/OtherFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/ReadCSV_File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/ReadCSV_File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/ReadFromDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/ReadFromDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/UpdateData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/UpdateData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/fruitDtails.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/fruitDtails.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,17 +66,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Exam.Main.executor": "Run",
+    "Application.Internet.executor": "Run",
+    "Application.LibraryManagement.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.OtherFile.executor": "Run",
+    "Application.Product.Main.executor": "Run",
+    "Application.StudentDatabase.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/GIT/Advance-Java/lib/ojdbc11-23.6.0.24.10.jar",
+    "last_opened_file_path": "C:/GIT/Advance-Java/lib/okio-jvm-3.9.0.jar",
     "onboarding.tips.debug.path": "C:/Users/Hemel/Advance Java/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -77,13 +92,65 @@
       <recent name="C:\GIT\Advance-Java\lib" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="OtherFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fruit_Inn.OtherFile" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Exam.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.Main" />
       <module name="Advance Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fruit_Inn.*" />
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Internet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.Internet" />
+      <module name="Advance Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student.Main" />
+      <module name="Advance Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Product.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Product.Main" />
+      <module name="Advance Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentDatabase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student.StudentDatabase" />
+      <module name="Advance Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,7 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OtherFile" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Product.Main" />
+        <item itemvalue="Application.Exam.Main" />
+        <item itemvalue="Application.StudentDatabase" />
+        <item itemvalue="Application.Internet" />
       </list>
     </recent_temporary>
   </component>
@@ -106,6 +177,15 @@
       <option name="presentableId" value="Default" />
       <updated>1737395882948</updated>
     </task>
+    <task id="LOCAL-00001" summary="fruit">
+      <option name="closed" value="true" />
+      <created>1737444037606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737444037606</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +198,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fruit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fruit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
