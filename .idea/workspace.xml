@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b26f1092-c4ff-44a1-9205-936573986e77" name="Changes" comment="fruit">
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-2.1.20-Beta1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/okhttp-5.0.0-alpha.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/okio-jvm-3.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam/Crudo_Peration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/Connections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/InsertDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/LibraryManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library/ReadFromDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product/DatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student/DatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/Internet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advance Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Advance Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fruit_Inn/Connections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit_Inn/Connections.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +31,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/hemel1212/Advance-Java.git&quot;,
-    &quot;accountId&quot;: &quot;adf57b51-cbb0-41ee-a729-bcf6e29290fd&quot;
+    &quot;accountId&quot;: &quot;91b9287f-fdb4-48e1-bc63-e8c7aac88ee0&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -78,7 +57,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/GIT/Advance-Java/lib/okio-jvm-3.9.0.jar",
+    "last_opened_file_path": "C:/Users/Hemel/Desktop/Hemel/Spring Boot/travel/travel",
     "onboarding.tips.debug.path": "C:/Users/Hemel/Advance Java/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
